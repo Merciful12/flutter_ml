@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441569265073",
+    "firebase_url": "https://deeplom-ml.firebaseio.com",
+    "project_id": "deeplom-ml",
+    "storage_bucket": "deeplom-ml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441569265073:android:a670b85e7d6efb31d92990",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441569265073-op376be0vnj6m551ovcp916mhtnam76t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJFSpEX75S5lRwPYrUSkk3pikUEqcpm_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441569265073-op376be0vnj6m551ovcp916mhtnam76t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
