@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ml/backends/pages/backends_list_page.dart';
+import 'package:flutter_ml/introduction/Pages/introduction_page.dart';
 
 class App extends StatelessWidget {
   @override
@@ -10,7 +11,7 @@ class App extends StatelessWidget {
         primarySwatch: Colors.purple,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: BackendsListPage(),
+      home: IntroductionPage(),
     );
   }
 }
